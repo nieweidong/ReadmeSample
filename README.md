@@ -10,6 +10,10 @@
 
 ## 示例的项目名称为： ZhuangDeYiShouHaoBi
 
+## Goal and Philosophy
+
+  “目标以及哲学”，一个标题瞬间就让项目的气质提升了八个档次。
+
 ## What’s ZhuangDeYiShouHaoBi
 
   来来来，我们来装个逼。
